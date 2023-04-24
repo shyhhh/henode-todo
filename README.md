@@ -11,6 +11,11 @@ npm i -g henode-todo
 yarn global add henode-todo@lastest
 npm i -g henode-todo@lastest
 ```
+# 卸载
+```
+yarn global remove henode-todo
+npm uninstall -g henode-todo
+```
 
 # 使用
 
