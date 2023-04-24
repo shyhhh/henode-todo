@@ -1,14 +1,14 @@
 # 安装
 
 ```bash
-yarn g add henode-todo
+yarn global add henode-todo
 npm i -g henode-todo
 ```
 
 # 更新版本
 
 ```
-yarn g add henode-todo@lastest
+yarn global add henode-todo@lastest
 npm i -g henode-todo@lastest
 ```
 
