@@ -2,7 +2,14 @@
 
 ```bash
 yarn g add henode-todo
-npm g add henode-todo
+npm i -g henode-todo
+```
+
+# 更新版本
+
+```
+yarn g add henode-todo@lastest
+npm i -g henode-todo@lastest
 ```
 
 # 使用
